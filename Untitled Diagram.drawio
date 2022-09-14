@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T18:29:21.458Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="PDlEwxxI5QGoAv6wq0z2" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T18:31:13.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="9bkNVP68eRAGamYDl_72" version="20.3.0" type="github">
   <diagram id="6zhuYc9gIJg85YQYfyod" name="Page-1">
     <mxGraphModel dx="1298" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -164,9 +164,6 @@
         </mxCell>
         <mxCell id="olm5dgiGOFT5ouL3xigB-54" value="Push Metrics" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="905" y="705" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="olm5dgiGOFT5ouL3xigB-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="olm5dgiGOFT5ouL3xigB-58" value="Central Logging System" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="350" y="690" width="160" height="160" as="geometry" />
